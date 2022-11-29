@@ -1,4 +1,4 @@
-package dev;
+	package dev;
 
 public class LV0_06_숫자_비교하기 {
 

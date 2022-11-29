@@ -1,6 +1,6 @@
 package dev;
 
-public class LV_0_11_양꼬치 {
+public class LV0_11_양꼬치 {
 
 	public static void main(String[] args) {
 

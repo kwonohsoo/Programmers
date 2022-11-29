@@ -1,6 +1,6 @@
 package dev;
 
-public class LV_0_14_피자_나눠_먹기1 {
+public class LV0_14_피자_나눠_먹기1 {
 
 	public static void main(String[] args) {
 

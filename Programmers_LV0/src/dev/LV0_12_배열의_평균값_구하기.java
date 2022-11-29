@@ -1,6 +1,6 @@
 package dev;
 
-public class LV_0_12_배열의_평균값_구하기 {
+public class LV0_12_배열의_평균값_구하기 {
 
 	public static void main(String[] args) {
 		double[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};

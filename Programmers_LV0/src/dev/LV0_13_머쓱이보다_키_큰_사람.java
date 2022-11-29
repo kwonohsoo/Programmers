@@ -1,6 +1,6 @@
 package dev;
 
-public class LV_0_13_머쓱이보다_키_큰_사람 {
+public class LV0_13_머쓱이보다_키_큰_사람 {
 
 	public static void main(String[] args) {
 		int[] array = {149, 180, 192, 170};
