@@ -6,8 +6,8 @@ public class LV0_42_세균_증식 {
 		int n = 7;
 		int t = 15;
 		int answer = 0;
-
 		answer = (int) (Math.pow(2, t) * n);
+		
 		System.out.println(answer);
 	}
 }
