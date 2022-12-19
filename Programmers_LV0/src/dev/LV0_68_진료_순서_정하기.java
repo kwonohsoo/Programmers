@@ -12,14 +12,9 @@ public class LV0_68_진료_순서_정하기 {
 			for (int j = 0; j < answer.length; j++) {
 				if (emergency[i] < emergency[j] || emergency[i]==emergency[j]) {
 					answer[i] = answer[i] + 1;
-
 				}
-
 			}
-
 		}
 		System.out.println(Arrays.toString(answer));
-
 	}
-
 }
