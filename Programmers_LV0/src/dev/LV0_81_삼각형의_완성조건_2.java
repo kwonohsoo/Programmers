@@ -2,7 +2,7 @@ package dev;
 
 import java.util.Arrays;
 
-public class LV_0_81_삼각형의_완성조건_2 {
+public class LV0_81_삼각형의_완성조건_2 {
 
 	public static void main(String[] args) {
 		int[] sides = { 1, 2 };
