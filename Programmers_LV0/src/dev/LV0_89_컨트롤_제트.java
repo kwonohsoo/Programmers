@@ -2,7 +2,7 @@ package dev;
 
 import java.util.Stack;
 
-public class LV0_81_컨트롤_제트 {
+public class LV0_89_컨트롤_제트 {
 
 	public static void main(String[] args) {
 		String s = "1 2 Z 3";
