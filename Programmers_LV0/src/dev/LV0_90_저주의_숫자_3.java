@@ -1,6 +1,6 @@
 package dev;
 
-public class LV0_저주의_숫자_3 {
+public class LV0_90_저주의_숫자_3 {
 
 	public static void main(String[] args) {
 		int n = 15;
